@@ -1,0 +1,11 @@
+{
+  "name": "node_json_file",
+  "version": "1.0.0",
+  "description": "provide CRUD on json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kuan",
+  "license": "ISC"
+}
